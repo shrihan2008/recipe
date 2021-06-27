@@ -1,0 +1,8 @@
+http://gyankikhoj.pythonanywhere.com/	
+https://www.pythonanywhere.com/user/gyankikhoj/files/var/log/gyankikhoj.pythonanywhere.com.error.log
+
+
+
+admin123	
+
+\connect gyankikhoj.mysql.pythonanywhere-services.com	
